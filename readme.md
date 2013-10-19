@@ -1,4 +1,5 @@
-ajax notez
+ajax-json-notes
+===============
 
 do:
 $ bundle
